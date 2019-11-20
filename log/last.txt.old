@@ -1,0 +1,5 @@
+[INFO]       0.283[0.283]    || git fetch
+[INFO]       0.283[0.000]    || 
+[INFO]       0.879[0.596]    || git reset --hard origin/master
+[INFO]       0.879[0.000]    || 
+[INFO]       0.897[0.018]    || HEAD is now at 15a707e Initial commit

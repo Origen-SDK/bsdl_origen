@@ -1,0 +1,16 @@
+[INFO]       0.284[0.284]    || git fetch
+[INFO]       0.285[0.000]    || 
+[INFO]       0.933[0.649]    || git reset --hard origin/master
+[INFO]       0.933[0.000]    || 
+[INFO]       0.950[0.017]    || HEAD is now at 15a707e Initial commit
+[INFO]       6.271[5.321]    || git fetch
+[INFO]       6.271[0.000]    || 
+[INFO]       6.869[0.598]    || git reset HEAD
+[INFO]       6.869[0.000]    || 
+[INFO]       6.889[0.020]    || git pull
+[INFO]       6.889[0.000]    || 
+[INFO]       7.212[0.322]    || Already up to date.
+[INFO]       7.212[0.000]    || git checkout origin/master /proj/imxrt1170_test/users/nxa16226/bsdl_origen/doc/history /proj/imxrt1170_test/users/nxa16226/bsdl_origen/config/version.rb
+[INFO]       7.212[0.000]    || 
+[INFO]       7.218[0.006]    || error: pathspec '/proj/imxrt1170_test/users/nxa16226/bsdl_origen/doc/history' did not match any file(s) known to git.
+[INFO]       7.218[0.000]    || error: pathspec '/proj/imxrt1170_test/users/nxa16226/bsdl_origen/config/version.rb' did not match any file(s) known to git.
